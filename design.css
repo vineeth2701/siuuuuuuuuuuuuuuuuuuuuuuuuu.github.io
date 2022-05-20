@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-container {
+    background-image: url('https://www.worldatlas.com/r/w960-q80/upload/35/9a/4a/shutterstock-575340148.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.home-heading {
+    color: #ffffff;
+    font-family: 'Roboto';
+    text-align: center;
+    padding: 10px;
+}
+
+.home-card {
+    background-color: #34a9ac;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.card-heading {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card-description {
+    color: #ffffff;
+    font-family: 'Roboto';
+}
+
+.card-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.home-card2 {
+    background-color: #34a9ac;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.button-container {
+    text-align: center;
+    margin: 15px;
+
+}
+
+.details-bg-container {
+    background-image: url('https://images.unsplash.com/photo-1559825481-12a05cc00344?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8b2NlYW58ZW58MHx8MHx8&w=1000&q=80');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.details-card {
+    background-color: #dfbe58;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.detail-heading {
+    color: lightblue;
+    font-family: 'Roboto';
+    padding: 10px;
+    font-size: 28px;
+}
+
+.details-card2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+.video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+.card-container {
+    text-align: center;
+}
+
+.know {
+    color: #ffffff;
+    text-align: left;
+    padding: 20px;
+}
+
+.video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+.bg-solution-container{
+    background-image: url('https://1.bp.blogspot.com/-uHMBsM1J3BU/VTCJNO2sK7I/AAAAAAAAALc/v-gyIYwtHXo/s1600/Underwater-HD-Wallpapers-5.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.solution-heading{
+    color: #ffffff;
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+}
+.solution-subheading{
+    color: #ffffff;
+    font-family: 'Roboto';
+    padding: 10px;
+    font-weight: 600;
+    font-size: 28px;
+}
+.styling{
+    list-style-type: square;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+.solution-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 14px;
+    margin-left: 50px;
+}
+.solution-spacing{
+    margin-top: 20px;
+}
+.video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+.know-bg{
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.sN0mLpWWci9ExExo9OasLAHaE9&pid=Api&P=0&w=265&h=177');
+}
+.know-container{
+    background-color:#8d5e0d;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
